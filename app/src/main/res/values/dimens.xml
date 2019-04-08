@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="basic_subject_text_size">20sp</dimen>
+    <dimen name="basic_chat_text_size">20sp</dimen>
+    <dimen name="basic_chat_name_text_size">15sp</dimen>
+    <dimen name="basic_chat_other_info_text_size">12sp</dimen>
+    <dimen name="basic_chat_margin">5dp</dimen>
+    <dimen name="basic_settings_margin">20dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

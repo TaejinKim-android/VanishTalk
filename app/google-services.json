@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887121471939",
+    "firebase_url": "https://vanishtalk.firebaseio.com",
+    "project_id": "vanishtalk",
+    "storage_bucket": "vanishtalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887121471939:android:2d609004b8f1f24e",
+        "android_client_info": {
+          "package_name": "com.tk.vanishtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887121471939-7kkup4t7ksm1rh2eoqb8sv90lhepnsif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tk.vanishtalk",
+            "certificate_hash": "07cbc0b13f7768fcb1c7b71d422e989eae503677"
+          }
+        },
+        {
+          "client_id": "887121471939-h4d3dd154ctgp7fchvpo5i6k1ushvsa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBP8SXbqjCYr2HuVoLOsN2O4PjUrnfy4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887121471939-h4d3dd154ctgp7fchvpo5i6k1ushvsa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
