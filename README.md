@@ -5,4 +5,4 @@ This is a client(Android) part of toy chat application.
 - **Architecture** MVP, RESTful API, 
 - **Library** Retrofit2, RxJava, Socket.io, Glide, Gson
 - **Login** Facebook API, FirebaseAuth
-- **etc** Easypermissions
+- **Etc** Easypermissions
