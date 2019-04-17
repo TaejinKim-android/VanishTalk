@@ -61,7 +61,6 @@
         </activity>
         <activity
                 android:name=".maintab.chatroom.choosefriends.ChooseFriendsActivity"
-                android:label="@string/title_activity_add_chat_room"
                 android:theme="@style/AppTheme">
         </activity>
         <activity android:name=".util.ImgFullScreenActivity">
